@@ -11,8 +11,8 @@
 
 # Interfeys skrinshotlari: 
 
-![Alt text](desktop1.png)
+![Alt text](/public/desktop1.png)
 
-![Alt text](mobile1.png)
+![Alt text](/public/mobile1.png)
 
-![Alt text](mobile2.png)
+![Alt text](/public/mobile2.png)
